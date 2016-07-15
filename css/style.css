@@ -46,3 +46,11 @@ p{
 	background-size:cover;
 	background-repeat:no-repeat;
 }
+.button{
+	text-align: center;
+	border-radius: 1rem;
+	opacity: .7;
+	font-size: 1rem;
+	color: white;
+	background-color: black;
+}
