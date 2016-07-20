@@ -1,48 +1,94 @@
-* {
-	margin: 0rem;
-	padding: 0rem;
+@media only screen and (max-width:500px){
+.masthead {
+	padding:3em 0;
 }
-a{
-	color:white;
-	text-decoration:none;
-}
-a:hover{
-	color:salmon;
+.masthead-heding {
+font-size: 3em;
 }
 .top-navigation{
-       	top:-10rem;
-	color:white;
-}
-li{
 	display:inline-block;
-	padding-left:11rem;
-	padding-top:2rem;
-	font-weight:bold;
 }
-.intro{ 
-	vertical-align: top;
-	text-align: center;
-       	font-family:"Playfair Display", Helvetica, sans-serif;
-	color:white;
-	background-size:cover;
-	background-repeat:no-repeat;
-	font-size:4rem;
-	margin-top:-10rem;
-	padding:21rem;
+.content-footer {
+font-size:3em;
 }
-body{
-	background-image:url("../images/DarkForest.jpg");
-	background-size:cover;
-	margin:auto;
-	background-repeat: no-repeat;
 }
-p{
-	text-align:center;
-	color:white;
-	font-family:"Fauna One";
-	background-image:url("../images/DarkSoil.jpg");
-	font-size:3rem;
-	padding:11rem;
-	background-size:cover;
-	background-repeat:no-repeat;
+.masthead-heading,.masthead-intro,.content-footer {
+text-align:center;
+}
+body {
+width:100%;
+height: 100%;
+}
+.masthead {
+padding:22em 0;
+background-image: url("http://i1228.photobucket.com/albums/ee455/AlonzoChurch/pexels-photo-89485_zps3ggzzwxq.jpeg");
+background-size:cover;
+width:100%;
+background-repeat:no-repeat;
+border-top:solid 1em #7B6E60;
+}
+.masthead-intro {
+margin-bottom: 0.1em;
+font-size:2em;
+font-family: "Open Sans", "Helvetica Neue", sans-serif;
+}
+.masthead-heading {
+margin-top: -0.2em;
+font-size:6em;
+font-family:"Gentium Book Basic", Georgia, serif;
+font-weight:bold;
+letter-spacing:-.02em;
+text-transform:uppercase;
+}
+.sec1{
+font-size:22px;
+}
+.introduction-section, .location-section, .questions-section {
+max-width: 38em;
+margin-left: auto;
+margin-right:auto;
+margin-top:2em;
+}
+body {
+background:#A8A295; 
+color:#222222;
+font-size:1em;
+font-family:"Open Sans", "Helvetica Neue", sans-serif;
+}
+.social > li {
+display: inline-block;
+}
+.content-footer > p {
+color:white;
+}
+.content-footer{
+background-color:#7B6E60;
+padding:100px 40px 50px 80px;
+font-size:3em;
+}
+.introduction-section > p,
+.location-section > p,
+.content-footer > p,
+.questions-section > p, li{
+font-weight:300;
+letter-spacing:.05em;
+}
+.topboy >li > a:hover {
+	color:#DF867C;
+}
+.social > li > a{
+color:#DF867C;
+display:inline-block;
+}
+.topboy{
+	padding-left:13rem;
+}
+.topboy > li{
+	display: inline-block;
+}
+.topboy > li > a{
+	color:black;
+	display:inline-block;
+	padding-left:2rem;
+	text-decoration:none;
 }

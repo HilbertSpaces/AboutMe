@@ -15,10 +15,9 @@ a:hover{
 }
 li{
 	display:inline-block;
-	padding-left:11rem;
+	padding-left:6rem;
 	padding-top:2rem;
 	font-weight:bold;
-	font-size:.8rem;
 }
 .intro{ 
 	vertical-align: top;
@@ -48,6 +47,10 @@ p{
 	background-repeat:no-repeat;
 }
 .sites{
-	padding-top:10rem;
+	padding-top:7rem;
 	color:darksalmon;
+}
+img {
+	width:50rem;
+	padding-left:5rem;
 }

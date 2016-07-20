@@ -12,12 +12,21 @@ a:hover{
 .top-navigation{
        	top:-10rem;
 	color:white;
+	text-align:left;
+}
+ul{
+	padding-left:3rem;
 }
 li{
 	display:inline-block;
-	padding-left:11rem;
+	padding-left:6rem;
 	padding-top:2rem;
 	font-weight:bold;
+}
+.outro{
+	font-size:3rem;
+	color:white;
+	text-align:center;
 }
 .intro{ 
 	vertical-align: top;
@@ -46,11 +55,6 @@ p{
 	background-size:cover;
 	background-repeat:no-repeat;
 }
-.button{
-	text-align: center;
-	border-radius: 1rem;
-	opacity: .7;
-	font-size: 1rem;
-	color: white;
-	background-color: black;
-}
+@circle{
+	
+	
