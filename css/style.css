@@ -1,0 +1,60 @@
+* {
+	margin: 0rem;
+	padding: 0rem;
+}
+a{
+	color:white;
+	text-decoration:none;
+}
+a:hover{
+	color:salmon;
+}
+.top-navigation{
+       	top:-10rem;
+	color:white;
+	text-align:left;
+}
+ul{
+	padding-left:3rem;
+}
+li{
+	display:inline-block;
+	padding-left:6rem;
+	padding-top:2rem;
+	font-weight:bold;
+}
+.outro{
+	font-size:3rem;
+	color:white;
+	text-align:center;
+}
+.intro{ 
+	vertical-align: top;
+	text-align: center;
+       	font-family:"Playfair Display", Helvetica, sans-serif;
+	color:white;
+	background-size:cover;
+	background-repeat:no-repeat;
+	font-size:4rem;
+	margin-top:-10rem;
+	padding:21rem;
+}
+body{
+	background-image:url("../images/DarkForest.jpg");
+	background-size:cover;
+	margin:auto;
+	background-repeat: no-repeat;
+}
+p{
+	text-align:center;
+	color:white;
+	font-family:"Fauna One";
+	background-image:url("../images/DarkSoil.jpg");
+	font-size:3rem;
+	padding:11rem;
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+@circle{
+	
+	
