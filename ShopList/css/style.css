@@ -1,0 +1,58 @@
+form>p{
+	left:21em;
+	position:relative;
+	font-size:2em;
+	font-family: 'Playfair Display', serif;
+	margin:0;
+}
+form{
+	position:relative;
+	margin-top:5em;
+	margin-left:19em;
+}
+.submit,.item{
+	border:.2em solid rgb(107,183,5);
+	height:3em;
+	left:38em;
+	position:relative;
+}
+.submit{
+	width:10em;
+}
+.item{
+	width:60em;
+}
+.fill,.filr {
+	border:.3em solid black;
+	width:40em;
+	height:3em;
+	float:left;
+	position:absolute;
+	font-family: 'Playfair Display', serif;
+	text-align:center;
+	top:14em;
+}
+.fill{
+	left:7em;
+}
+.filr {
+	right:7em;
+}
+h1 {
+	font-size:1.5em;
+}
+.boxl,.boxr{
+	border:.3rem solid black;
+	width:40rem;
+	height:30rem;
+	position:relative;
+	top:7em;
+}
+.boxl{
+	float:left;
+	left:6.4em;
+}
+.boxr{
+	float:right;
+	right:6.4em;
+}
