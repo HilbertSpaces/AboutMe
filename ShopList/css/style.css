@@ -29,6 +29,7 @@ form{
 	float:left;
 	position:absolute;
 	font-family: 'Playfair Display', serif;
+	color:rgb(107,183,5);
 	text-align:center;
 	top:14em;
 }
@@ -42,7 +43,7 @@ h1 {
 	font-size:1.5em;
 }
 .boxl,.boxr{
-	border:.3rem solid black;
+	border:.3rem solid purple;
 	width:40rem;
 	height:30rem;
 	position:relative;
