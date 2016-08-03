@@ -1,9 +1,15 @@
+body{
+	background-image:url("../images/StreetMarket.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
 form>p{
 	left:21em;
 	position:relative;
 	font-size:2em;
 	font-family: 'Playfair Display', serif;
 	margin:0;
+	color:white;
 }
 form{
 	position:relative;
@@ -11,7 +17,7 @@ form{
 	margin-left:19em;
 }
 .submit,.item{
-	border:.2em solid rgb(107,183,5);
+	border:.2em solid black;
 	height:3em;
 	left:38em;
 	position:relative;
@@ -23,13 +29,13 @@ form{
 	width:60em;
 }
 .fill,.filr {
-	border:.3em solid black;
+	color:gray;
+	border:.3em solid #FF3300;
 	width:40em;
 	height:3em;
 	float:left;
 	position:absolute;
 	font-family: 'Playfair Display', serif;
-	color:rgb(107,183,5);
 	text-align:center;
 	top:14em;
 }
@@ -41,9 +47,10 @@ form{
 }
 h1 {
 	font-size:1.5em;
+	color:white;
 }
 .boxl,.boxr{
-	border:.3rem solid purple;
+	border:.3rem solid black;
 	width:40rem;
 	height:30rem;
 	position:relative;
@@ -56,4 +63,7 @@ h1 {
 .boxr{
 	float:right;
 	right:6.4em;
+}
+.left,.right{
+	color:white;
 }
