@@ -4,12 +4,13 @@ body{
 	background-size:cover;
 }
 form>p{
-	left:21em;
+	left:700px;
 	position:relative;
-	font-size:2em;
+	font-size:3em;
 	font-family: 'Playfair Display', serif;
 	margin:0;
-	color:white;
+	color:salmon;
+	font-weight:bold;
 }
 form{
 	position:relative;
@@ -55,6 +56,9 @@ h1 {
 	height:30rem;
 	position:relative;
 	top:7em;
+}
+li{
+	font-size:1.2em;
 }
 .boxl{
 	float:left;
