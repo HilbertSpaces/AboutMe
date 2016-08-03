@@ -1,7 +1,9 @@
-body{
+html{
 	background-image:url("../images/StreetMarket.jpg");
-	background-repeat:no-repeat;
 	background-size:cover;
+}
+body{
+	background-repeat:no-repeat;
 }
 form>p{
 	left:700px;
