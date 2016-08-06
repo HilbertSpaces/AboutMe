@@ -1,0 +1,3 @@
+[submodule "hot-or-cold-starter"]
+	path = hot-or-cold-starter
+	url = https://github.com/HilbertSpaces/hot-or-cold-starter
