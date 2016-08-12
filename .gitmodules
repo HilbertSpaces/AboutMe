@@ -1,3 +1,6 @@
 [submodule "hot-or-cold-starter"]
 	path = hot-or-cold-starter
 	url = https://github.com/HilbertSpaces/hot-or-cold-starter
+[submodule "stackerAjax"]
+	path = stackerAjax
+	url = https://github.com/HilbertSpaces/stackerAjax
