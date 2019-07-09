@@ -19,7 +19,7 @@ li{
 	padding-top:2rem;
 	font-weight:bold;
 }
-.intro{ 
+.intro{
 	vertical-align: top;
 	text-align: center;
        	font-family:"Playfair Display", Helvetica, sans-serif;
@@ -51,6 +51,6 @@ p{
 	color:darksalmon;
 }
 img {
-	width:50rem;
+	width:30rem;
 	padding-left:5rem;
 }
