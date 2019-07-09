@@ -45,13 +45,13 @@ body{
 	margin:auto;
 	background-repeat: no-repeat;
 }
-/*p{
+p{
 	text-align:center;
 	color:white;
 	font-family:"Fauna One";
-	background-image:url("../images/DarkSoil.jpg");
 	font-size:3rem;
 	padding:11rem;
 	background-size:cover;
 	background-repeat:no-repeat;
-}*/
+}
+@circle{
