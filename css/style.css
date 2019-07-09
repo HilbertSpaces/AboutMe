@@ -28,7 +28,7 @@ li{
 	color:white;
 	text-align:center;
 }
-.intro{ 
+.intro{
 	vertical-align: top;
 	text-align: center;
        	font-family:"Playfair Display", Helvetica, sans-serif;
@@ -45,7 +45,7 @@ body{
 	margin:auto;
 	background-repeat: no-repeat;
 }
-p{
+/*p{
 	text-align:center;
 	color:white;
 	font-family:"Fauna One";
@@ -54,7 +54,4 @@ p{
 	padding:11rem;
 	background-size:cover;
 	background-repeat:no-repeat;
-}
-@circle{
-	
-	
+}*/
