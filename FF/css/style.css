@@ -21,7 +21,7 @@ height: 100%;
 }
 .masthead {
 padding:22em 0;
-background-image: url("http://i1228.photobucket.com/albums/ee455/AlonzoChurch/pexels-photo-89485_zps3ggzzwxq.jpeg");
+background-image: url("../images/IceCream.jpeg");
 background-size:cover;
 width:100%;
 background-repeat:no-repeat;
@@ -50,7 +50,7 @@ margin-right:auto;
 margin-top:2em;
 }
 body {
-background:#A8A295; 
+background:#A8A295;
 color:#222222;
 font-size:1em;
 font-family:"Open Sans", "Helvetica Neue", sans-serif;
